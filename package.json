@@ -9,8 +9,8 @@
   "author": "ernestosbarbosa",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^13.6.3",
-    "dotenv": "^16.4.1",
-    "puppeteer": "^21.9.0"
+      "cypress": "^13.14.2", 
+      "dotenv": "^16.4.5", 
+      "puppeteer": "^23.3.1"
   }
 }
